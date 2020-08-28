@@ -3,4 +3,4 @@
 
 ## Notes
 
-http://members.tsetmc.com/tsev2/excel/MarketWatchPlus.aspx?d=*13990507*
+http://members.tsetmc.com/tsev2/excel/MarketWatchPlus.aspx?d=13990507
